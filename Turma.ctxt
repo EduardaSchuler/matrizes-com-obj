@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Turma
+comment1.params=nomeDisciplina\ numTurma\ tamanho
+comment1.target=Turma(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNomeDisciplina()
+comment3.params=
+comment3.target=int\ getNumTurma()
+comment4.params=a
+comment4.target=boolean\ addAluno(Aluno)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
